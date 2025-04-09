@@ -1,3 +1,4 @@
+import utils.session
 import pygame
 from display import Window, TextBox, SlideBox, DropdownBox, ButtonBox
 from algs import algorithmsDict
