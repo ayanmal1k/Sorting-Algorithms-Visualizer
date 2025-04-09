@@ -24,6 +24,7 @@ from algorithms.insertionSort import insertionSort
 from algorithms.radixSort import radixSort
 from algorithms.treeSort import treeSort
 from algorithms.slowSort import slowSort
+from algorithms.beadSort import beadSort
 
 
 __all__ = [
@@ -53,4 +54,5 @@ __all__ = [
     "treeSort",
     "exchangeSort",
     "slowSort",
+    "beadSort",
 ]

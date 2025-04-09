@@ -28,5 +28,6 @@ algorithmsDict = {
     'exchangeSort'        : exchangeSort,
     'treeSort'            : treeSort,
     'slowSort'            : slowSort,
+    'beadSort'            : beadSort,
 }
 
